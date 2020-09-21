@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600717190 source:c:\users\mostafa\desktop\perfect\main.c
+	<stdio.h>
+	<stdlib.h>
+
